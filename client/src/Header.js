@@ -52,8 +52,8 @@ function Header() {
   return (
     <StyledHeader>
       <LogoLink to={'/'} className="logo">
-        <FontAwesomeIcon icon={faStackOverflow} size="2x" />
-        <span>stack<b>overcloned</b></span>
+
+        <span>Learn Link<b> Forum</b></span>
       </LogoLink>
       {/*<form action="" className="search">*/}
       {/*  <SearchInput type="text" placeholder="Search..."/>*/}
